@@ -11,7 +11,7 @@ Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten S
 Ich wollte mich organisatorisch verbessern da vieles unnötig lange geht.
 
 Was wäre ein geeignetes Projekt würd diese LP3?
-Etwas kleines
+Ich dachte an ein kleines Grafikspiel
 ## 9.1.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
