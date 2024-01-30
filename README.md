@@ -16,10 +16,11 @@ Ich dachte an ein kleines Grafikspiel
 ✍️ Heute habe ich alles genau für diese kurze Lernperiode geplant. Ich finde das spricht mir viel mehr zu als immer für nächste Woche zu planen da ich gerne Dinge reinschiebe. Es ist möglich mein Projekt.(50-100 Wörter)
 
 ## 16.1 und 23.1.2024
-- [ ] Währungen eintragen
-- [ ] Währungen umrechnen 
-- [ ] 
-- [ ] 
+- [x ] Währungen eintragen
+- [ x] Währungen umrechnen 
+- [ x ] logisches Datenmodell 
+- [ x ] Wechselkurse
+-  
 
  
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
