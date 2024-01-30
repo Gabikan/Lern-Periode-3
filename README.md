@@ -17,16 +17,16 @@ Ich dachte an ein kleines Grafikspiel
 
 ## 16.1 und 23.1.2024
 - [ ] Währungen eintragen
-- [ ] Währungen umrechner 
-- [ ] in WinForms visualisieren
+- [ ] Währungen umrechnen 
+- [ ] 
 - [ ] 
 
  
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
 |-|-|-|---|---|
-|1| Währungen sind eingetragen | 
-|2| 
-|3|
+|1| Währungen sind eingetragen | Währung in CHF | Währung in neu | 
+|2| Wechselkurse stimmen | Zahl in CHF | Zahl in neu |
+|3|  |
 |4|
 
 
@@ -36,15 +36,18 @@ Ich dachte an ein kleines Grafikspiel
 4				
 ## ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt.
+Ich habe am meinem Programm gearbeitet mit den Währungen es war mehr Fleissarbeit die Wechselkurse einzutragen also im Verhältnis zum Franken ich habe mich für die Währungen entschieden die ich am meisten nutze.
 
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-5				
-...				
-8				
+| Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+|-|-|-|---|---|
+|1|  | 
+|2| 
+|3|
+|4|
+			
 ## ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Ich habe weiter am Programm gearbeitet und habe auch mein logisches Daten für das Modul 164 erstellt. Ich hatte Mühe mir ein Thema vorzustellen und mit dem Währungsumrechner bin ich fertig
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf Github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 30.1.2024
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
