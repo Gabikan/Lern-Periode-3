@@ -37,7 +37,7 @@ Ich dachte an ein kleines Grafikspiel
 4				
 ## ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
-Ich habe am meinem Programm gearbeitet mit den Währungen es war mehr Fleissarbeit die Wechselkurse einzutragen also im Verhältnis zum Franken ich habe mich für die Währungen entschieden die ich am meisten nutze.
+Ich habe am meinem Programm gearbeitet mit den Währungen es war mehr Fleissarbeit die Wechselkurse einzutragen also im Verhältnis zum Franken ich habe mich für die Währungen entschieden die ich am meisten nutze wie Euro Pfund.
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
 |-|-|-|---|---|
@@ -47,7 +47,7 @@ Ich habe am meinem Programm gearbeitet mit den Währungen es war mehr Fleissarbe
 |4|
 			
 ## ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-Ich habe weiter am Programm gearbeitet und habe auch mein logisches Daten für das Modul 164 erstellt. Ich hatte Mühe mir ein Thema vorzustellen und mit dem Währungsumrechner bin ich fertig
+Ich habe weiter am Programm gearbeitet und habe auch mein logisches Daten für das Modul 164 erstellt. Ich hatte Mühe mir ein Thema vorzustellen und mit dem Währungsumrechner bin ich fertig ich habe es aber nicht in WinForms gemacht da ich keine Zeit mehr hatte.
 
 
 ## 30.1.2024
