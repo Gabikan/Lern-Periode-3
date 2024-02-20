@@ -54,6 +54,4 @@ Ich habe weiter am Programm gearbeitet und habe auch mein logisches Daten für d
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ## Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ich habe an meinem Code gearbeitet es war bisschen komisch da man alles geplannt hatte es ging gut ich habe mich an meinem Plan gehalten aber die Zeiteinschätzung war falsch eingeschätzt manchmal zu wenig Zeit und manchmal zu viel
